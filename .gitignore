@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/AcpiProbe/bin
+/AcpiProbe/bin
+/AcpiProbe/obj
+/packages
+/Tester/bin
+/Tester/obj
