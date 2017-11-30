@@ -9,3 +9,5 @@
 /packages
 /Tester/bin
 /Tester/obj
+/AcpiProbe/AcpiProbe.csproj.user
+/Tester/Tester.csproj.user
